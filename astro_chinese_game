@@ -21,29 +21,29 @@ if chinese_sign == 'y':
  birthday = raw_input ('OK !!! Enter your birthday year (example : 1902) :' )
  print('')
  if int(birthday) in dog:
- print ('youre a DOG')
+ 	print ('youre a DOG')
  elif int(birthday) in rat:
- print ('youre a RAT')
+ 	print ('youre a RAT')
  elif int(birthday) in beef:
- print ('youre a BEEF')
+ 	print ('youre a BEEF')
  elif int(birthday) in tiger:
- print ('youre a TIGER')
+ 	print ('youre a TIGER')
  elif int(birthday) in hare:
- print ('youre a HARE')
+ 	print ('youre a HARE')
  elif int(birthday) in snake:
- print ('youre a SNAKE')
+ 	print ('youre a SNAKE')
  elif int(birthday) in goat:
- print ('youre a GOAT')
+ 	print ('youre a GOAT')
  elif int(birthday) in rooster:
- print ('youre a ROOSTER')
+ 	print ('youre a ROOSTER')
  elif int(birthday) in pig:
- print ('youre a DIRTY PIG')
+ 	print ('youre a DIRTY PIG')
  elif int(birthday) in dragon:
- print ('youre a DRAGON')
+ 	print ('youre a DRAGON')
  elif int(birthday) in horse:
- print ('youre a HORSE')
+ 	print ('youre a HORSE')
  elif int(birthday) in monkey:
- print ('youre a MONKEY')
+ 	print ('youre a MONKEY')
  
 if chinese_sign!= 'y':
  print ('OK Bye Bye')
