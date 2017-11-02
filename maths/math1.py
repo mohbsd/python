@@ -6,11 +6,11 @@
 #if a > b:
 #	print('A is taller than B')
 
-a = input('premier nombre a: ')
-b = input('deuxieme nombre b: ')
+a = input('premier nombre A: ')
+b = input('deuxieme nombre B: ')
 
-if a == b:
-	print('a est egal a b')
+if A == B:
+	print('A est egal a B')
 else:
-	print('a est different de b')
+	print('A est different de B')
 	print('reesayer svp')
