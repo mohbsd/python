@@ -1,0 +1,10 @@
+#here you can find some special harry potter spells
+print "reducto" # This spell splits a solid object into pieces or even into a fine dust.
+				# Members of Dumbledore's Army then proceed to use the curse during the 
+				# Battle of the Department of Mysteries, smashing the shelves in the Hall of Prophecy
+
+print "Expelliarmus"  # Almost beautiful in its simplicity, the Disarming Charm is frequently used 
+					  # in wizarding duels, forcing one's opponent to drop their wand.
+					  #	As soon as a wizard casts this charm by bellowing 'Expelliarmus',
+					  #	a jet of red light shoots from their wand. Harry has the members of Dumbledore's 
+					  #	Army practise the spell in pairs.
