@@ -1,0 +1,10 @@
+>>> art = {'bruce':40 , 'chuck':41}
+>>> art
+{'bruce': 40, 'chuck': 41}
+>>> art.update({'bruce': 33})
+>>> art
+{'bruce': 33, 'chuck': 41}
+>>> art['chuck']=45
+>>> art
+{'bruce': 33, 'chuck': 45}
+
